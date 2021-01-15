@@ -1,0 +1,24 @@
+{
+  "name": "checked-tabs",
+  "version": "1.0.0",
+  "description": "CSS only Tabs easy use, responsive. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkkcngz/checked-tabs.git"
+  },
+  "keywords": [
+    "css",
+    "only",
+    "tabs"
+  ],
+  "author": "Hakki Cengiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkkcngz/checked-tabs/issues"
+  },
+  "homepage": "https://github.com/hkkcngz/checked-tabs#readme"
+}
