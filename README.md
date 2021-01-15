@@ -1,6 +1,7 @@
 # checked-tabs
 CSS Only Tabs, easy use, responsive. (SCSS)
 
+## [Demo](https://codepen.io/hkkcngz/full/ZEpVGxv)
 
 ## Usage
 You need to add just same label for and input ID. Thats it.
