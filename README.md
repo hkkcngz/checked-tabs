@@ -33,4 +33,4 @@ You need to add just same label for and input ID. Thats it.
 ```
 
 #### Why you coded this?
-Because I am too lazy to handle/struggle with bootstrap react libray. 
+- Because I am too lazy to handle/struggle with bootstrap react libray. 
