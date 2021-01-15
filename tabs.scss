@@ -1,0 +1,40 @@
+body {
+  font-size: 25px;
+  margin: 0;
+  padding: 100px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+/* Lets Style Little Our Tabs */
+.nav-tabs{
+  label{
+    padding: 4px 10px;
+    cursor: pointer;
+    &:hover{
+      background: #eee;
+    }
+  }
+}
+.tabs-wrapper {
+  position: relative;
+  .tab-content{
+    
+  }
+}
+/* Lets Style Little Our Tabs */
+
+/* Lets Make Our Tabs */
+.tabs-checkbox,
+.tab-content{
+  display: none;
+}
+
+.tabs-checkbox:checked ~ .tab-content {
+  display: flex;
+}
+/* Lets Make Our Tabs */
